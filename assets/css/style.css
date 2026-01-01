@@ -4,7 +4,7 @@
 /* CSS varablies */
 :root {
     --primary-font: "Inter", sans-serif;
-    --secondary-font: "Macondo", ;
+    --secondary-font: "Macondo", cursive;
     --primary-color: #3a2620; /* dark brown */
     --secondary-color: #aa9581; /* light brown */
     --highlight-color: #416a8e; /* blue */
@@ -57,6 +57,6 @@ h3 {
 
 .col-12 {
     border: 2px solid white;
-    background-color: lightgrey;
+    background-color: lightgray;
 } */
 
